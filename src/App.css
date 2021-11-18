@@ -1,0 +1,9 @@
+body {
+	background-color: lightskyblue;
+	font-size: 2em;
+	font-family: Arial;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: black;
+}
