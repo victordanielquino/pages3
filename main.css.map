@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA,KACC,yBACA,cACA,kBACA,aACA,uBACA,mBACA,W","sources":["webpack://mathboard/./src/App.css"],"sourcesContent":["body {\n\tbackground-color: lightskyblue;\n\tfont-size: 2em;\n\tfont-family: Arial;\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\tcolor: black;\n}\n"],"names":[],"sourceRoot":""}
